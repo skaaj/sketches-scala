@@ -2,7 +2,7 @@
 Collection of visual sketches made with Scala + Processing.
 
 ## Running
-For some reason the applet is auto-closed when running `sbt run`. A workaround to this is simply to open a sbt shell
+For some reason the applet is auto-closed when run with `sbt run`. A workaround is to simply open a sbt shell
 ```
 sbt
 ```
